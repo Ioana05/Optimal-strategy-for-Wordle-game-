@@ -7,7 +7,7 @@ Primul program, jocul wordle, a fost implementat în trei variante diferite:
 - ultima varintă este de fapt o funcție care returnează feedback-ul pe baza regulilor jocului și, doar aceasta a reușit să fie conectată cu "guesser.py"
 
 
-Al doilea program s-a realizat în doua etape, a doua etapă fiind cea corectă și eficientă(*sperăm):
+Al doilea program s-a realizat în doua etape, a doua etapă fiind cea corectă și eficientă:
 
 -**Prima** noastră **variantă** de a calcula entropia, incorectă însă, se află in fișierul "first_guesser.py".Ea se baza pe calcularea probabilității apariției fiecărei literă din alfabet, iar apoi, în functie de asta, a informației oferită de fiecare variantă și implicit, a entropiei.
 
