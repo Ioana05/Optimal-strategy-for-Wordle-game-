@@ -1,6 +1,8 @@
 # Proiect_asc-WORDLE
 Echipa formată din: *Verdeș Maria-Ioana(grupa 131)* și *Leahu Silvia-Ioana(grupa 131)* 
 
+*Pentru inceput, daca nu sunteti familiarizati cu jocul Wordle , il puteti accesa din urmatorul link:https://www.nytimes.com/games/wordle/index.html*
+
 Primul program, jocul wordle, a fost implementat în trei variante diferite:
 - prima, "wordle.py", dispune de o interfață construită cu ajutorul modulului TKINTER
 - a doua varianta, "wordleNoGUI.py ",este o variantă simplificată a primului program, care returnează feedback-ul în terminal după următoarele reguli: 0-echivalentul culorii gri din joc, 1-galben, iar 2-verde
